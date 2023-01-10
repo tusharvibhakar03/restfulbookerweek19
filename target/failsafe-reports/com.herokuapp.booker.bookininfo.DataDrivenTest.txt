@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.herokuapp.booker.bookininfo.DataDrivenTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.herokuapp.booker.bookininfo.DataDrivenTest
+createMultipleUsers(com.herokuapp.booker.bookininfo.DataDrivenTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.herokuapp.booker.bookininfo.DataDrivenTest.createMultipleUsers(DataDrivenTest.java:32)
+

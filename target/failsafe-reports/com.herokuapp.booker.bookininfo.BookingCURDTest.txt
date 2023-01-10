@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.herokuapp.booker.bookininfo.BookingCURDTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.212 sec <<< FAILURE! - in com.herokuapp.booker.bookininfo.BookingCURDTest
+test001(com.herokuapp.booker.bookininfo.BookingCURDTest)  Time elapsed: 0.007 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.herokuapp.booker.bookininfo.BookingCURDTest.test001(BookingCURDTest.java:37)
+
+test002(com.herokuapp.booker.bookininfo.BookingCURDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.herokuapp.booker.bookininfo.BookingCURDTest.test002(BookingCURDTest.java:46)
+
+test003(com.herokuapp.booker.bookininfo.BookingCURDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.herokuapp.booker.bookininfo.BookingCURDTest.test003(BookingCURDTest.java:60)
+
+test004(com.herokuapp.booker.bookininfo.BookingCURDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.herokuapp.booker.bookininfo.BookingCURDTest.test004(BookingCURDTest.java:73)
+
+test005(com.herokuapp.booker.bookininfo.BookingCURDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.herokuapp.booker.bookininfo.BookingCURDTest.test005(BookingCURDTest.java:84)
+
